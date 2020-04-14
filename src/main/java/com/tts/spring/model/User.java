@@ -1,4 +1,4 @@
-package com.tts.spring_mvc_example.model;
+package com.tts.spring.model;
 
 public class User {
 

@@ -1,4 +1,4 @@
-package com.tts.spring_mvc_example.controller;
+package com.tts.spring.controller;
 
 import java.text.DateFormat; 
 import java.util.Date;
@@ -10,7 +10,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.RequestMapping; 
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.tts.spring_mvc_example.model.User;
+import com.tts.spring.model.User;
 
 	@Controller
 	public class HomeController {
